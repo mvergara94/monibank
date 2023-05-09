@@ -1,4 +1,4 @@
-# AluraBooks | JS
+# Monibank
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=critical&style=for-the-badge"/>
